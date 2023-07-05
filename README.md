@@ -16,7 +16,6 @@ your first assignment!
 All assignments are hosted on GitHub. In order to work on them, however, you
 will need to complete work on your local machine. Once you're done, you will
 submit your assignment to Canvas using a platform called CodeGrade.
-
 The general process is:
 
 - Click the GitHub logo button (the 'OctoCat') in Canvas; we will show you
@@ -273,10 +272,8 @@ Git][pushing-with-git]. For now, we'll just cover the surface basics that will
 allow you to turn in your assignments. If you have questions about these git
 commands, however, you are free to refer to those later lessons.
 
-[basics]:
-  https://github.com/learn-co-curriculum/phase-0-git-version-control-basics
-[pushing-with-git]:
-  https://github.com/learn-co-curriculum/phase-0-git-pushing-code
+[basics]: https://github.com/learn-co-curriculum/phase-0-git-version-control-basics
+[pushing-with-git]: https://github.com/learn-co-curriculum/phase-0-git-pushing-code
 
 These commands should be run in the terminal within the directory with changes
 to push. For example with this assignment, you should be running the following
